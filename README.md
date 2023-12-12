@@ -1,2 +1,1 @@
-# sparkstreaming
-Simple Spark App
+#### Streaming App
