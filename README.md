@@ -1,0 +1,2 @@
+# sparkstreaming
+Simple Spark App
